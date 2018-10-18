@@ -1,0 +1,14 @@
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\obj\Debug\HotelDataProcessingApp.csproj.CoreCompileInputs.cache
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\HotelDataProcessingApp.exe.config
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\HotelDataProcessingApp.exe
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\HotelDataProcessingApp.pdb
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\CsvHelper.dll
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\Json.dll
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\CsvHelper.xml
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\Json.pdb
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\obj\Debug\HotelDataProcessingApp.csproj.CopyComplete
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\obj\Debug\HotelDataProcessingApp.exe
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\obj\Debug\HotelDataProcessingApp.pdb
+C:\Trivago Tech Champ\HotelDataProcessingApp\HotelDataProcessingApp\obj\Debug\HotelDataProcessingApp.csprojAssemblyReference.cache
